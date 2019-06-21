@@ -1,0 +1,10 @@
+[
+  {
+    "name": "VeThor",
+    "symbol": "VTHO",
+    "decimals": 18,
+    "address": "0x0000000000000000000000000000456e65726779",
+    "desc": "Represents the underlying cost of using VeChainThor",
+    "icon": "3ac553ea77911248ab4519bca020e0aa2891a6c6.png"
+  }
+]
